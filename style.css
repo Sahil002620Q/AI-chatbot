@@ -1,0 +1,72 @@
+
+
+#container{
+    border: 1px solid rgb(26, 50, 86);
+    height: 800px;
+    width:500px;
+    margin-top: 33px;
+    margin-left: 500px;
+    border-radius: 44px;
+    background-color: rgb(65, 65, 151);
+}
+
+
+
+#result{
+    /* width: 350px; */
+    padding: 30px;
+    border: 2px solid #283155;            /*border thickness need to be min 1 to make the border visible*/
+    border-radius: 25px;
+    height: 400px;
+    margin-top: 53px;
+    margin-left: 55px;
+    margin-right: 55px;
+    background-color: rgb(167, 174, 186);
+   
+
+}
+
+#search{
+    border:2px solid crimson;
+    height: 44px;
+    /* width: 400px; */
+    margin-top: 100px;
+    margin-left: 54px;
+    border-radius: 44px;
+    margin-bottom: 33px;
+    background-color: rgb(167, 174, 186);
+}
+
+ input {
+  width: 250px;
+  height: 40px;
+  padding: 10px;
+  padding-left: 30px;
+  border: 2px solid black;
+  border-radius: 44px;
+   background-color: #f5f5f5;
+  color: black;
+  font-size: 16px;
+  margin-left: 54px;
+  margin-top: 67px;
+  background-color: rgb(167, 174, 186);
+}
+
+button{
+     width: 69px;
+  height: 69px;
+ padding: 10px;
+  border-radius: 100px;
+  white-space: 9px;
+  margin-left: 34px;
+  margin-right: 33px;
+  background-color: rgb(167, 174, 186);
+
+}
+
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/person-facing-wall-question-marks-doodles-man-curly-brown-hair-wearing-light-grey-shirt-stands-dark-background-445346044.jpg?w=992");
+      background-size: cover;        /* fills full screen */
+  background-position: center;   /* center image */
+  background-repeat: no-repeat; 
+}
